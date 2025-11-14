@@ -1,5 +1,3 @@
-Replace your entire package.json with this clean version:
-
 {
   "name": "snappy-crossword",
   "version": "1.0.0",
